@@ -1,14 +1,65 @@
-<img src="https://i.ibb.co/rxmMKgV/bg1-6.jpg"/>
+<img src="banner.jpg"/>
+
 <h3 align="center">👩🏻‍💻Full Stack Web Developer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+## About Me 
 
-<h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
+<p>
+Hello🙋🏻, my name is Bárbara Cassiram and I am a Full Stack Web Developer oriented to Front End.
 
-<h3 align="left">Connect with me:</h3>
+I have always been very self-taught, I like to learn something new every day and at the same time I like to share that knowledge with others, and I am always willing to offer my help to anyone who needs it. I like to look at myself in the mirror and know that every day I am better than the previous one.
+
+I seek to contribute with creativity and innovation in achieving the overall goals of a company, developing myself through continuous learning and thus be able to acquire more experience and personal improvement.
+</p>
+
+## Languages and Tools:
+
+<p align="center">
+<img width="5%" src="./img/icons/javascript.png">
+<img width="5%" src="./img/icons/html-blanco.png">
+<img width="5%" src="./img/icons/css-blanco.png">
+<img width="5%" src="./img/icons/NodeJs.png">
+<img width="5%" src="./img/icons/React.png">
+<img width="5%" src="./img/icons/Redux.png">
+<img width="5%" src="./img/icons/Git.png">
+<img width="5%" src="./img/icons/sequelize.png">
+<img width="5%" src="./img/icons/postgreSQL.png">
+<img width="5%" src="./img/icons/heroku.png">
+<img width="5%" src="./img/icons/vercel.png">
+<img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+<img width="5%" src="./img/icons/postman.png">
+</p>
+
+## Projects:
+
+<a href="https://pi-dogs-byk.vercel.app/">Dogs App</a>
+<br></br>
+<p>
+<img width="45%" src="./img/pi-dogs/landing.png">
+<img width="45%" src="./img/pi-dogs/home.jpeg">
+<img width="45%" src="./img/pi-dogs/detail.png">
+<img width="45%" src="./img/pi-dogs/create.png">
+</p>
+
+##
+
+<a href="https://mi-scusi-books.vercel.app/">Mi Scusi Books App</a>
+<br></br>
+<p>
+<img width="45%" src="./img/pf-mi scusi books/home.jpeg">
+<img width="45%" src="./img/pf-mi scusi books/allbooks.png">
+<img width="45%" src="./img/pf-mi scusi books/cart.png">
+<img width="45%" src="./img/pf-mi scusi books/pdfreader.png">
+</p>
+
+## GitHub Stats:
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
+<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
+
+## Connect with me: 
 <p align="left">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=cassiram15@gmail.com&tf=cm"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="cassiram15@gmail.com" height="28" width="32" />
+</p>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barbara-cassiram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barbara-cassiram/" height="30" width="40" /></a>
 </p>
