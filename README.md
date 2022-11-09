@@ -49,8 +49,8 @@ I seek to contribute with creativity and innovation in achieving the overall goa
 </p>
 
 ## 📊 GitHub Stats:
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="cassirambd" /></p>
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
+<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="cassirambd" /></p>
 
 ## 📧 Connect with me: 
 <p align="left">
