@@ -36,7 +36,7 @@ I seek to contribute with creativity and innovation in achieving the overall goa
 <br></br>
 <p>
 <img width="45%" src="./img/pi-dogs/landing.png">
-<img width="45%" src="./img/pi-dogs/home.jpeg">
+<img width="45%" src="./img/pi-dogs/home.png">
 <img width="45%" src="./img/pi-dogs/detail.png">
 <img width="45%" src="./img/pi-dogs/create.png">
 </p>
