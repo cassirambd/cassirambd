@@ -10,7 +10,7 @@ I have always been very self-taught, I like to learn something new every day and
 I seek to contribute with creativity and innovation in achieving the overall goals of a company, developing myself through continuous learning and thus be able to acquire more experience and personal improvement.
 </p>
 
-## 🔧Languages and Tools:
+## 🔧Languages and Tools
 
 <p align="center">
 <img width="5%" src="./img/icons/javascript.png">
@@ -28,7 +28,7 @@ I seek to contribute with creativity and innovation in achieving the overall goa
 <img width="5%" src="./img/icons/postman.png">
 </p>
 
-## 🖥️ Projects:
+## 🖥️ Projects
 
 <a href="https://pi-dogs-byk.vercel.app/">Dogs App</a>
 <p>
@@ -48,11 +48,11 @@ I seek to contribute with creativity and innovation in achieving the overall goa
 <img width="45%" src="./img/pf-mi-scusi-books/pdfreader.png">
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
 <p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="cassirambd" /></p>
 
-## 📧 Connect with me: 
+## 📧 Connect with me
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=cassiram15@gmail.com&tf=cm"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="cassiram15@gmail.com" height="28" width="32" />
 &nbsp;&nbsp;&nbsp;&nbsp;
